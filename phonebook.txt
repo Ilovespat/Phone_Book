@@ -1,0 +1,164 @@
+{
+    "contacts": {
+        "1": {
+            "last_name": "Петров",
+            "first_name": "Петр",
+            "middle_name": "Петрович",
+            "company": "Рога и Копыта",
+            "work_phone": "3333333",
+            "personal_phone": "89003005560"
+        },
+        "2": {
+            "last_name": "Иванов",
+            "first_name": "Ванька",
+            "middle_name": "Иванович",
+            "company": "Хорошая компания",
+            "work_phone": "2687354",
+            "personal_phone": "89005006060"
+        },
+        "3": {
+            "last_name": "Нескромный",
+            "first_name": "Василий",
+            "middle_name": "Иванович",
+            "company": "Библиотека",
+            "work_phone": "383-411-54",
+            "personal_phone": "89138889595"
+        },
+        "4": {
+            "last_name": "Непетечкин",
+            "first_name": "Петр",
+            "middle_name": "Иванович",
+            "company": "Хорошая компания",
+            "work_phone": "2687354",
+            "personal_phone": "89004005050"
+        },
+        "5": {
+            "last_name": "Нахлобыстин",
+            "first_name": "Иван",
+            "middle_name": "Иванович",
+            "company": "Кино",
+            "work_phone": "2003060",
+            "personal_phone": "89004002020"
+        },
+        "6": {
+            "last_name": "Скромняшнин",
+            "first_name": "Василий",
+            "middle_name": "Иванович",
+            "company": "Театр",
+            "work_phone": "383-411-56",
+            "personal_phone": "89138889595"
+        },
+        "7": {
+            "last_name": "Eлкин",
+            "first_name": "Евстигней",
+            "middle_name": "Eвлампиевич",
+            "company": "Гугл",
+            "work_phone": "нет",
+            "personal_phone": "89007004040"
+        },
+        "8": {
+            "last_name": "Снежная",
+            "first_name": "Ольга",
+            "middle_name": "Александровна",
+            "company": "Небесный свет",
+            "work_phone": "03",
+            "personal_phone": "89001002020"
+        },
+        "9": {
+            "last_name": "Снежинкина",
+            "first_name": "Варвара",
+            "middle_name": "Анатольевна",
+            "company": "Зимняя резиденция",
+            "work_phone": "777",
+            "personal_phone": "8889995566"
+        },
+        "10": {
+            "last_name": "White",
+            "first_name": "Jack",
+            "middle_name": "",
+            "company": "Poker",
+            "work_phone": "+96874649687464",
+            "personal_phone": "112"
+        },
+        "11": {
+            "last_name": "Антонов",
+            "first_name": "Антон",
+            "middle_name": "Антонович",
+            "company": "Солнышко",
+            "work_phone": "68745645",
+            "personal_phone": "546546"
+        },
+        "12": {
+            "last_name": "Новенький",
+            "first_name": "Игорь",
+            "middle_name": "Васильевич",
+            "company": "Рога и копыта",
+            "work_phone": "5783737",
+            "personal_phone": "89004003030"
+        },
+        "13": {
+            "last_name": "Последний",
+            "first_name": "Герой",
+            "middle_name": "Афанасьевич",
+            "company": "Остров",
+            "work_phone": "03",
+            "personal_phone": "89001007070"
+        },
+        "14": {
+            "last_name": "Новенький",
+            "first_name": "Лешенька",
+            "middle_name": "Александрович",
+            "company": "фрилансер",
+            "work_phone": "нет",
+            "personal_phone": "89006008080"
+        },
+        "15": {
+            "last_name": "Незатейкин",
+            "first_name": "Андрей",
+            "middle_name": "Tрофимович",
+            "company": "ООО ААА",
+            "work_phone": "5002020",
+            "personal_phone": "89005002010"
+        },
+        "16": {
+            "last_name": "Неизвестный",
+            "first_name": "Поэт",
+            "middle_name": "",
+            "company": "Библиотека",
+            "work_phone": "03",
+            "personal_phone": "02"
+        },
+        "17": {
+            "last_name": "Очередной",
+            "first_name": "Пример",
+            "middle_name": "Александрович",
+            "company": "рожки да ножки",
+            "work_phone": "6456565",
+            "personal_phone": "89003435555"
+        },
+        "18": {
+            "last_name": "Фламинго",
+            "first_name": "Розовый",
+            "middle_name": "Андреевич",
+            "company": "Зоопарк",
+            "work_phone": "6374654",
+            "personal_phone": "03"
+        },
+        "19": {
+            "last_name": "Пора",
+            "first_name": "Отдыхать",
+            "middle_name": "Уже",
+            "company": "Пятничка",
+            "work_phone": "02",
+            "personal_phone": "4546"
+        },
+        "20": {
+            "last_name": "Новая",
+            "first_name": "Аленка",
+            "middle_name": "Ивановка",
+            "company": "колхоз зорька",
+            "work_phone": "35435",
+            "personal_phone": "4546"
+        }
+    }
+}
