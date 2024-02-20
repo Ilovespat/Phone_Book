@@ -6,7 +6,7 @@ phonebook: dict = {}
 
 
 def load_phonebook() -> None:
-    """Загрузка телефонной книги из файла для дальнейшей работы с данными."""
+    """Загрузка телефонной книги из файла для дальнейшей работы."""
     try:
         with open("phonebook.txt", "r") as file:
             global phonebook

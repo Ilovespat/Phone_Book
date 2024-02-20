@@ -4,7 +4,6 @@ import math
 def search_json(data: dict, search_value: str, path: str = "") -> dict:
     """
     Поиск по файлу.
-
     :param data: Данные файла, по которому производится поиск
     :param search_value: Значение, которое ищем
     :param path: Путь в файле до объекта, который совпал с поиском
